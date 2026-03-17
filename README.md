@@ -10,13 +10,15 @@ pip install -r requirement.txt
 # 2. Project structure
 Make sure your folder looks like this:
 
-project/
-│── main.py
-│── util.py
-│── data/
-│   ├── parking.mp4
-│   ├── mask.png
-│   └── model2.p
+```
+  project/
+  │── main.py
+  │── util.py
+  │── data/
+  │   ├── parking.mp4
+  │   ├── mask.png
+  │   └── model2.p
+```
 
 # 3. Run the main script
 python main.py
