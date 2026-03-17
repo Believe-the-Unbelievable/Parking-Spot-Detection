@@ -24,17 +24,17 @@ Make sure your folder looks like this:
 python main.py
 
 # 4. What happens
-Video file (parking.mp4) is loaded
+- Video file (parking.mp4) is loaded
 
-Parking spots are detected using mask.png
+- Parking spots are detected using mask.png
 
-Each spot is classified as empty or occupied
+- Each spot is classified as empty or occupied
 
-Green box → Empty
+- Green box → Empty
 
-Red box → Occupied
+- Red box → Occupied
 
-Total available spots are displayed on screen
+- Total available spots are displayed on screen
 
-Press q to exit the window
+- Press q to exit the window
 
